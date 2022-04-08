@@ -46,18 +46,3 @@ Aquí utiliza las expresiones de comparación.
 -gt comprueba cual de las variables es mayor.
 
 -ge comprueba cual de las variables es mayor o igual.
-
-### Comprobación de Strings
-- like comprueba si un string empieza con el otro string.
-
-- -notlike hace justo lo contrario al de arriba.
-
-- -match comprueba si una string contiene otra string.
-
-- -notmatch comprueba si una string no contiene otra string.
-
-- -constains comprueba si una lista contiene un número o un string.
-
-- -notcontains comprueba si una lista no contiene un número o un string.
-
-- -in devuelve un boolean con true si hay un string o número dentro de una lista y uno con false si es que no.
