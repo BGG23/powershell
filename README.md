@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/91567318/162516995-1b260729-da25-46d0-8e0d-74f9ffee6906.png)
 
-- Este script establece 4 variables, con $nombrevariable e imprime por pantalla con write-host concatenando una String con la variable correspondiente
+- Este script nos muestra cuatro variables, usando el $number imprime por pantalla con un ´write-host´ que nos mostrara el numero correcto.
 
 ---
 
