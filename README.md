@@ -15,7 +15,7 @@
 
 - El For lo que hace es reproducir el bucle en el que repite el string 'Hello' hasta que la variable "counter" sea uno menos que "repeat".
 
-- El siguiente bucle While hace lo mismo que el For pero esta vez el contador está incluido dentro del bucle.
+- El siguiente bucle While hace lo mismo que el For pero esta vez el "counter" está incluido dentro del bucle.
 
 - El Do Wile hace lo mismo pero sustituyendo el For / While. La declaración de variables es separada. En el do está la acción y en el while está el condicional del bucle.
 
