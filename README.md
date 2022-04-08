@@ -17,9 +17,9 @@
 
 - El siguiente bucle While hace lo mismo que el For pero esta vez el "counter" está incluido dentro del bucle.
 
-- El Do Wile hace lo mismo pero sustituyendo el For / While. La declaración de variables es separada. En el do está la acción y en el while está el condicional del bucle.
+- El Do Wile hace lo mismo pero sustituyendo el For / While. La declaración de variables esta separada, el "do" está la acción y en el "while" está el condicional del bucle.
 
-- En el ForEach usa una variable de tipo string, pero luego utiliza un foreach, que básicamente lo que hace es imprimir cada letra del string.
+- En el ForEach usa una variable de tipo string, pero luego utiliza un "foreach" que imprime cada letra del string.
 
 ---
 
